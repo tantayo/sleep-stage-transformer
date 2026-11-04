@@ -1,0 +1,15 @@
+Phase 1 Backbone Evaluation
+Overall Accuracy: 79.34%
+Macro F1-Score:   0.7377
+
+              precision    recall  f1-score   support
+
+    Wake (W)     0.9435    0.9044    0.9235      9676
+          N1     0.4293    0.5176    0.4693      3447
+          N2     0.8764    0.7790    0.8248     11143
+          N3     0.6356    0.8428    0.7247      1724
+         REM     0.7140    0.7810    0.7460      3932
+
+    accuracy                         0.7934     29922
+   macro avg     0.7198    0.7650    0.7377     29922
+weighted avg     0.8114    0.7934    0.7997     29922

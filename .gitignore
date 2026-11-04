@@ -1,0 +1,12 @@
+# Python / IDE
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.python-version
+
+# Logs & TensorBoard
+runs/
+*.log

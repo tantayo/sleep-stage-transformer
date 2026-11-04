@@ -1,0 +1,15 @@
+Phase 2 Temporal Wrapper Evaluation
+Overall Accuracy: 81.20%
+Macro F1-Score:   0.7593
+
+              precision    recall  f1-score   support
+
+    Wake (W)     0.9461    0.9091    0.9272      9216
+          N1     0.4779    0.5106    0.4937      3447
+          N2     0.8732    0.8044    0.8374     11143
+          N3     0.6300    0.8602    0.7273      1724
+         REM     0.7757    0.8494    0.8109      3932
+
+    accuracy                         0.8120     29462
+   macro avg     0.7406    0.7867    0.7593     29462
+weighted avg     0.8225    0.8120    0.8153     29462
